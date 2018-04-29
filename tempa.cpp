@@ -14,6 +14,7 @@ bool **vis;
 // 3 izquierda
 /**///
 
+//asdasda
 class nodo
 {
 public:
