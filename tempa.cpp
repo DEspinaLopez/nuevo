@@ -12,7 +12,7 @@ bool **vis;
 // 1 derecha
 // 2 abajo
 // 3 izquierda
-
+--
 class nodo
 {
 public:
